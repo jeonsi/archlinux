@@ -1,4 +1,4 @@
-# on a Linux OS
+# On a Linux OS
 
 1. find X:
 
