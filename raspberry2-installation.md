@@ -49,3 +49,10 @@
   ```
   umount boot root
   ```
+
+6. login:
+
+  ```
+  Login as the default user alarm with the password alarm.
+  The default root password is root.
+  ```
